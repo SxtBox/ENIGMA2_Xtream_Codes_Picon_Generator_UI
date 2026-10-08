@@ -1,2 +1,2 @@
-# ENIGMA2_Xtream_Codes_Picon_Generator_UI
+# ENIGMA2 Xtream Codes Picon Generator
 ENIGMA2 Xtream Codes Picon Generator
